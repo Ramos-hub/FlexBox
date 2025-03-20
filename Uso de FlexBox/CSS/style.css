@@ -1,0 +1,24 @@
+body{
+    background-color: antiquewhite;
+    margin: 0px;
+    padding: 0px;
+}
+nav{
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+    background-color: black;
+    padding: 30px;
+}
+nav img{
+    height: 100px;
+}
+nav a{
+    text-decoration: none;
+    font-size: 19px;
+    color: white;
+}
+main img{
+    padding: 30px;
+    height: 200px;
+}
